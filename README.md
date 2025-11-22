@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dudek10
-- 👀 I’m interested in program apps
-- 🌱 I’m currently learning programing
+- 👀 I’m interested in programming apps
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
