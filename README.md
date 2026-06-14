@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dudek10
+- 👋 Hi, I’m Dominik
 - 👀 I’m interested in solving day to day problems
 - 🌱 I’m currently learning programming in Assembly and Rust
 - 💞️ I’m looking to collaborate on ...
